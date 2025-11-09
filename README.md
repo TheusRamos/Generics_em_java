@@ -27,3 +27,4 @@ Segurança em Tempo de Compilação: O compilador agora impede que tipos errados
 Código Mais Limpo e Seguro: Não é mais necessário fazer a conversão manual ("cast") ao retirar um item. O método de obter já retorna o objeto no seu tipo correto (Carregador, Iphone, etc.), eliminando totalmente o risco do erro ClassCastException.
 
 Além disso, como foi um projeto autoral, alterei os tipos de objetos a serem guardados para: Carregadores, Iphones, Xiaomis e Notebooks. Apenas para testes.
+Você pode acessar o código incorreto no link: https://github.com/Marcio-Sistemas-MC/Aulas-Fucamp/tree/ba9931c125c016a31a71da4e82eb86cfdeb700d8/POOII/Generics/trabalhoGenerics
