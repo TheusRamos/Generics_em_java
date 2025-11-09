@@ -1,0 +1,10 @@
+com\mycompany\deposito\Class\Produto.class
+com\mycompany\deposito\Itens\Iphone.class
+com\mycompany\deposito\Factory\FacCarregador.class
+com\mycompany\deposito\Itens\Carregador.class
+com\mycompany\deposito\Itens\Xiaomi.class
+com\mycompany\deposito\Factory\FacXiaomi.class
+com\mycompany\deposito\Factory\FacNotebook.class
+com\mycompany\deposito\Class\Deposito.class
+com\mycompany\deposito\Itens\Notebook.class
+com\mycompany\deposito\Factory\FacIphone.class
